@@ -10,15 +10,15 @@
     "utilities",
     "ai-agents"
   ],
-  "author": "Your Name <you@email.com>",
+  "author": "Dheeraj Kumar<dheerajatoria@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/agent-utils-core"
+    "url": "https://github.com/Dheerajprogrammer/-agent-utils-core"
   },
-  "homepage": "https://github.com/your-username/agent-utils-core#readme",
+  "homepage": "https://github.com/Dheerajprogrammer/-agent-utils-coree#readme",
   "bugs": {
-    "url": "https://github.com/your-username/agent-utils-core/issues"
+    "url": "https://github.com/Dheerajprogrammer/-agent-utils-core/issues"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
