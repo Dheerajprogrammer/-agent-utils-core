@@ -1,0 +1,38 @@
+{
+  "name": "@agent-utils/core",
+  "version": "0.1.0",
+  "description": "Core utility functions for building reliable AI agents",
+  "keywords": [
+    "ai",
+    "agent",
+    "llm",
+    "chatbot",
+    "utilities",
+    "ai-agents"
+  ],
+  "author": "Your Name <you@email.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/agent-utils-core"
+  },
+  "homepage": "https://github.com/your-username/agent-utils-core#readme",
+  "bugs": {
+    "url": "https://github.com/your-username/agent-utils-core/issues"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
